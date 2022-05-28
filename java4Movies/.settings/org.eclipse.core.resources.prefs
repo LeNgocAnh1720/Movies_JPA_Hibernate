@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/poly/dao/UserDao.java=UTF-8
+encoding//src/main/java/com/poly/servlet/HomeMoviePage.java=UTF-8
+encoding//src/main/java/com/poly/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/com/poly/servlet/ManageAdminUser.java=UTF-8
+encoding//src/main/java/com/poly/servlet/ManageAdminVideo.java=UTF-8
+encoding//src/main/java/com/poly/servlet/MyFavoriteVideo.java=UTF-8
+encoding//src/main/java/com/poly/servlet/ShareVideo.java=UTF-8
+encoding//src/main/java/com/poly/servlet/forgotPassword.java=UTF-8
+encoding//src/main/java/com/poly/util/JpaUtils.java=UTF-8
+encoding//src/main/java/testlogin/TestNG_Login.java=UTF-8
+encoding//src/main/webapp/views/admin/manageUsers.jsp=UTF-8
+encoding//src/main/webapp/views/admin/manageVideo.jsp=UTF-8
